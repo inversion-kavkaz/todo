@@ -1,0 +1,61 @@
+.complited {
+  text-decoration: line-through;
+  color: #d2dae3;
+}
+
+.nocategory {
+  color: #cc2a36;
+}
+
+.link {
+  color: #518ccc;
+}
+
+.novalue {
+  color: #c2185b;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #797979;
+}
+
+.novalue {
+  color: #b7b7b7;
+}
+
+
+.col-color {
+  width: 1% !important;
+}
+
+.col-id {
+  width: 4%;
+  text-align: center;
+}
+
+.col-title {
+  width: 55%;
+}
+
+.col-priority {
+  width: 10%;
+}
+
+
+.col-category {
+  width: 10%;
+}
+
+.col-select {
+  width: 3%;
+}
+
+.col-operations {
+  width: 8%;
+}
+
+.col-date {
+  width: 10% !important;
+}
+
